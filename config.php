@@ -8,4 +8,6 @@ $keys = [
 
 $home = "/*----- Your App Root Path Here -----*/";
 
+/*An example  of a rooth path is your main URL such as Google.com or http://localhost/Lumina/Speech/*/
+
 ?>
